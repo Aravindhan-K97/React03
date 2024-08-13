@@ -35,4 +35,4 @@ A simple To-Do List Task is built using React and Bootstrap for a Dynamic Respon
 
 ## Nelify Deployed URL
 
-🔸*Check out My To-Do List Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://to-do-list-react-task-3.netlify.app/)
+🔸*Check out My To-Do List Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://react-todo61.netlify.app/)
